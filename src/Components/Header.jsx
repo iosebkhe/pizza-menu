@@ -4,7 +4,7 @@ function Header() {
 
   return (
     <header className="header">
-      <h1>Fast React Pizza Co.</h1>
+      <h1>Pizza Menu Page</h1>
     </header>
   );
 }
