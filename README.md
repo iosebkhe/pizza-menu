@@ -1,6 +1,18 @@
-# Simple Pizza Menu page
+# Pizza Menu
 
-This is a simple pizza menu page created with React + Vite. I've exercised the react fundamentals.
+Small Pizza Menu page
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### Links
+
+- Live Site URL: [Click here](https://pizza-menu-basic.vercel.app/)
+
+### Created with
+
+- React
+- HTML, CSS
+
+## Author
+
+- Linkedin - [Ioseb Khetsuriani](https://www.linkedin.com/in/ioseb-khetsuriani-1831801b5/)
+- CodePen - [@iosebkhe](https://codepen.io/iosebkhe)
+- Frontend Mentor - [@iosebkhe](https://www.frontendmentor.io/profile/iosebkhe)
